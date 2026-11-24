@@ -1,0 +1,4 @@
+- Naive RAG é a forma mais simples de construir um sistema de [[RAG]].
+- Dados estruturados/não estruturados viram chunks (frases, blocos de texto, etc.) que serão armazenados em um banco de dados vetorial. 
+- O [[Banco de Dados Vetorial]] armazena [[Embeddings]]. 
+- Usuário envia e recebe texto, mas internamente o sistema usa matemática e estatística.

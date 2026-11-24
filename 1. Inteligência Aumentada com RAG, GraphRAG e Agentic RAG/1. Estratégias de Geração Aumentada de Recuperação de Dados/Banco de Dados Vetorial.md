@@ -1,0 +1,2 @@
+- É utilizado para permitir a busca de documentos similares à pergunta do usuário e assim criar contexto para que o [[LLMs]] possa emitir respostas melhores.
+- O Banco Vetorial permite fazer buscas em alta velocidade e retornar documentos através de similaridade entre vetores, o que na prática é um cálculo matemático.

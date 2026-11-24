@@ -1,0 +1,4 @@
+- Um [[LLMs]] no formato padrão que está pronto para uso possui a facilidade de implementação, rapidez na resposta e ausência de necessidade de treinamento adicional. Porém, possui possíveis imprecisões, falta de conhecimento atualizado e dificuldades em tarefas muito específicas.
+- Importante considerar a responsabilidade no uso dos modelos e como evitar respostas tendenciosas. O LLM foi treinado utilizando dados gerados por humanos, que são tendenciosos. O modelo naturalmente se torna tendencioso.
+- Métodos como [[Fine-Tuning]]
+- e [[RAG]] podem oferecer respostas melhores, porém aumentam a complexidade da solução.

@@ -1,0 +1,3 @@
+- Matrizes com representação numérica. 
+- Modelos de IA são matemática, o humano trabalho com texto, o modelo trabalha com números, por isso há uma conversão de texto para embeddings. 
+- Usuário manda pergunta em texto, é convertido em representação numérica e é feita a busca no Banco Vetorial.

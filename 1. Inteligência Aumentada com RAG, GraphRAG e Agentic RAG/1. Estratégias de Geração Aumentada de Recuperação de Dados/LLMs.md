@@ -1,0 +1,4 @@
+- Modelo de inteligência artificial criada utilizando Deep Learning.
+- Modelos maiores e complexos, treinados com bilhões de parâmetros e grandes volumes de dados.
+- Alto nível de compreensão e geração de texto, capazes de lidar com tarefas avançadas como: escrita criativa, tradução e análise profunda de informações.
+- Precisam de servidores poderosos, alto consumo de energia e podem apresentar tempos de respostas maiores.

@@ -1,0 +1,6 @@
+- RAG = Geração Aumentada de Recuperação de Dados
+- São uma abordagem híbrida que combina modelos de linguagem ([[LLMs]] ou [[SLMs]]) com sistemas de recuperação de informações para melhorar a precisão e a atualidade das respostas geradas.
+- Não depender apenas do conhecimento armazenado no modelo durante o treinamento, o ==🟢RAG busca informações em fontes externas (banco de dados, documentos, APIs ou pesquisa na web) antes de gerar uma respostas==
+	- Evita gerar respostas desatualizadas ou imprecisas.
+- Amplamente utilizado em aplicações que exigem informações em tempo real ou precisas, como: chatbots, empresariais, suporte técnico, mecanismos de busca inteligente e assistentes virtuais.
+- Reduz as limitações dos [[LLMs]], tornando-os mais confiáveis para domínios específicos e ajudando a evitar [[Alucinações]], já que a geração de texto é fundamentada em dados externos e verificáveis.

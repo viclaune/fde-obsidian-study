@@ -1,0 +1,3 @@
+- Modelos menores e mais leves, otimizados para rodar em dispositivos com menor poder computacional, como celulares, edge devices e servidores com restrições de memória e processamento.
+- Mais eficientes, rápidos e consomem menos energia, mas possuem limitações em termos de compreensão e geração de texto.
+- Ideais para tarefas específicas, assistentes virtuais, chatbots e automação de respostas simples.

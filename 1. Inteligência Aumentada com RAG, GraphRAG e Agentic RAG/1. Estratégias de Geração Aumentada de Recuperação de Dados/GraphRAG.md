@@ -1,0 +1,4 @@
+- GraphRAG é uma abordagem que aprimora a técnica de [[RAG]] ao incorporar grafos de conhecimento no processo de recuperação de informações.
+- [[RAG]] tradicional utiliza principalmente a similaridade vetorial para buscar trechos de texto relevantes, o GraphRAG constrói um grafo de conhecimento e a partir do texto bruto, identificando entidades e suas inter-relações. 
+- Esse grafo é então utilizado para melhorar a recuperação e geração de respostas, permitindo uma compreensão mais profunda e estruturada dos dados.
+- O GraphRAG foca na construção de um grafo de conhecimento a partir de um corpus de texto específico, extraindo entidades e relacionamentos para criar uma estrutura que auxilia na recuperação de informações relevantes durante a geração de respostas. 

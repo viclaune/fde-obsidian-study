@@ -1,0 +1,3 @@
+- São problemas comuns em [[LLMs]] que ainda não possuem solução. O que conseguimos é reduzir os problemas, mas não acabar com elas.
+- Ocorrem quando o modelo gera informações falsas, imprecisas ou não fundamentadas na realidade. Acontece porque os [[LLMs]] funcionam prevendo a sequência mais provável de palavras com base em seu treinamento, ==🟢sem compreende o significado real do que dizem==.
+- ==🟢"IA" faz cair na ideia de que existe uma "inteligência". O que temos hoje é geração de texto em alta velocidade, prevendo a próxima palavra, como foi treinado com muito texto, ele consegue prever as próximas palavras com alta precisão, mas ele não sabe o está dizendo==.
