@@ -11,10 +11,14 @@
             "id": "2b238ecf4f354376",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Projeto 1 - Rag Local/Configurando o Banco de Dados Vetorial e o Retriever.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configurando o Banco de Dados Vetorial e o Retriever"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.1000061035156
+    "width": 527.9000244140625
   },
   "right": {
     "id": "07ac7d4bfa51be8c",
@@ -185,8 +189,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "2b238ecf4f354376",
+  "active": "4e812b0d83c0effb",
   "lastOpenFiles": [
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Projeto 1 - Rag Local/Projeto 1 - Rag Local com DeepSeek e Ollama.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Projeto 1 - Rag Local/Configurando o Banco de Dados Vetorial e o Retriever.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Projeto 1 - Rag Local/Sem título.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Banco de Dados Vetorial.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Projeto 1 - Rag Local/Modelo de Embeddings.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Projeto 1 - Rag Local/Semantic Chuncker.md",
     "Sem título 1.base",
     "Sem título.base",
     "DSA - FDE 4.0/1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Retriever.md",
@@ -194,35 +204,29 @@
     "3. Arquitetura de Sistemas com Agentes de IA",
     "2. Construção e Deploy de Agentes de IA",
     "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Implementando o Sistema de RAG Local com DeepSeek e Ollama/Projeto 1 - Implementando o Sistema de RAG Local com DeepSeek e Ollama.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Naive RAG.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Usando LLMs no formato padrão.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Janela de Contexto e Long-Context LLM.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Fine-Tuning.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/SLMs.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Self-Reflective RAG.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Retriever.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/RAG.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Banco de Dados Vetorial.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/LLMs.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Naive RAG.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Usando LLMs no formato padrão.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Janela de Contexto e Long-Context LLM.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Fine-Tuning.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/SLMs.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Self-Reflective RAG.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Retriever.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/RAG.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/LLMs.md",
     "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Implementando o Sistema de RAG Local com DeepSeek e Ollama",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/GraphRAG.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Embeddings.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Corrective RAG.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Alucinações.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Agentic RAG.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Adaptive RAG.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Arquitetura Transformer.md",
-    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/GraphRAG.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Embeddings.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Corrective RAG.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Alucinações.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Agentic RAG.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Adaptive RAG.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG/Arquitetura Transformer.md",
+    "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de RAG",
     "1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG",
     "5. Arquiteto de Soluções de Cloud Computing com AWS",
     "DSA - FDE 4.0/1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Banco de Dados Vetorial.md",
     "DSA - FDE 4.0/1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Embeddings.md",
-    "DSA - FDE 4.0/1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Naive RAG.md",
-    "DSA - FDE 4.0/1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Implementando o Sistema de RAG Local com DeepSeek e Ollama/Projeto 1 - Implementando o Sistema de RAG Local com DeepSeek e Ollama.md",
     "Sem título.canvas",
-    "DSA - FDE 4.0/1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Implementando o Sistema de RAG Local com DeepSeek e Ollama",
-    "DSA - FDE 4.0/1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Self-Reflective RAG.md",
-    "DSA - FDE 4.0/1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Adaptive RAG.md",
-    "DSA - FDE 4.0/1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados"
+    "DSA - FDE 4.0/1. Inteligência Aumentada com RAG, GraphRAG e Agentic RAG/1. Estratégias de Geração Aumentada de Recuperação de Dados/Implementando o Sistema de RAG Local com DeepSeek e Ollama"
   ]
 }
